@@ -7,7 +7,7 @@ require 'config/database.php';
 ?>
 
 
-<!DOCTYPE html>
+<!DOCTYPE html> 
 <html lang="en">
 
 <head>
@@ -27,7 +27,7 @@ require 'config/database.php';
                     <img src="img/logoNVS.svg" alt="" width="40vh">
                     <ul>
                         <li><a href="">Inicio</a></li>
-                        <li><a href="menu/Videojuegos/videojuegos.html">Videojuegos</a></li>
+                        <li><a href="menu/Videojuegos/videojuegos.html">penesito</a></li>
                         <li><a href="menu/Consolas/consolas.html">Consolas</a></li>
                         <li><a href="menu/Nintendo/nintendo.html">Nintendo</a></li>
                         <li><a href="menu/Playstation/playstation.html">PlayStation</a></li>
